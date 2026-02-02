@@ -28,7 +28,7 @@ export default function App() {
           </p>
 
           <div className="mt-6 flex items-center gap-6 text-sm">
-            <a href="/resume.pdf" download className="underline">
+            <a href="/Shreya Kulkarni Nizampetkar - Resume.pdf" download className="underline">
               Download Resume
             </a>
 
